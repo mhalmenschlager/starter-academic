@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Bolsista de Iniciação Científica
+    company: Universidade de Santa Cruz do Sul
+    company_url: 'https://www.unisc.br/pt/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Santa Cruz do Sul, Rio Grande do Sul
+    date_start: '2012-12-01'
+    date_end: '2018-02-25'
+    description: 
 
 design:
   columns: '2'
