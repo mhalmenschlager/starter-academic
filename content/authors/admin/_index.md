@@ -10,17 +10,20 @@ role: Biólogo, cientista de dados Júnior
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Universidade de Santa Cruz do Sul
+  url: https://www.unisc.br/pt/
 
 # Short bio (displayed in user profile at end of posts)
-bio: (Short bio)
+bio: Biólogo, entomólogo, e ecólogo. Cientista de Dados júnior. Apaixonado por insetos, dados, e tudo o que tiver entre eles.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Análise de Dados
+- Ecologia
+- Entomologia
+- Zoologia
+- Machine Learning
+- Python
 
 # Education to show in About widget
 education:
@@ -42,13 +45,13 @@ social:
   link: https://twitter.com/mhalmenschlager
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Matheus-Halmenschlager
 - icon: github
   icon_pack: fab
   link: https://github.com/mhalmenschlager
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.researchgate.net/profile/Matheus-Halmenschlager
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,8 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Matheus Yuri Halmenschlager é bacharel em Ciências Biológicas pela Universidade de Santa Cruz do Sul, onde iniciou carreira em pesquisa nos Laboratórios de Zoologia e Entomologia da instituição. Possui experiência em taxonomia e ecologia de insetos, bem como ecologia de paisagem e sistemas agrícolas. Também é cientista de dados, valendo-se de self-paced learning. Possui conhecimentos em análise de dados, escrita científica e machine learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
